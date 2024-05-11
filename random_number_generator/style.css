@@ -1,0 +1,44 @@
+#label{
+    font-size: 10em;
+    text-align: center;
+    display:block;
+    border : 1px solid black;
+    padding: 10px;
+    border-width: 10px;
+    block-size: 100px 100px;
+    background-color: rgb(36, 110, 174);
+    margin-left: 200px;
+    margin-right: 200px;
+    border-radius: 25px;
+}
+#container{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#userInput_label{
+    font-size: 3em;
+}
+#userInput{
+    size: 5;
+    font-size: 2em;
+    padding: 10px;
+    background-color: rgb(209, 209, 209);
+}
+#btn{
+    
+    display: block;
+    padding: 25px;
+    cursor: pointer;
+}
+#btn:hover{
+    background-color: rgb(85, 85, 85);
+    color: white;
+}
+#button-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+    
