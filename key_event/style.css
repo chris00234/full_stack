@@ -1,0 +1,11 @@
+#myBox{
+    background-color: blueviolet;
+    width: 200px;
+    height: 200px;
+    font-size: 7.5rem;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    position: relative;
+    padding-top: 100px;
+}
